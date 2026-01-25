@@ -1,10 +1,22 @@
+<!-- README.md -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=34&pause=1200&color=111111&center=true&vCenter=true&width=1000&lines=Daepang+%28%EB%8C%80%ED%8C%A1%29;Study+Notes+%2B+Quiz+%2B+Roadmap+in+One+Place" alt="Daepang Typing" />
 </p>
 
+<!-- ✅ 상단 레포 링크만 'ཁ: 더 크게/눈에 띄게 -->
 <p align="center">
-  <a href="https://github.com/ZonezIpex/Daepang-front"><img src="https://img.shields.io/badge/Frontend-Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/ZonezIpex/Daepang-back"><img src="https://img.shields.io/badge/Backend-Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ZonezIpex/Daepang-front">
+    <img src="https://img.shields.io/badge/🚀%20FRONTEND%20REPO-CLICK%20TO%20VIEW-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ZonezIpex/Daepang-back">
+    <img src="https://img.shields.io/badge/⚙️%20BACKEND%20REPO-CLICK%20TO%20VIEW-111827?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>↑ 실제 구현 코드는 위 두 레포에서 확인</b></sub>
 </p>
 
 <p align="center">
@@ -26,7 +38,7 @@
 
 ## <a id="1-프로젝트-소개"></a> 1. 프로젝트 소개
 대팡은 공부하면서 생기는 자료(필기/요약/문제)를 한 곳에 모아 정리하고,  
-자료를 기반으로 퀴즈를 만들어 풀면서 복습까지 이어지도록 구성한 학습 통합 프로젝트입니다.  
+자료를 바탕으로 퀴즈를 만들어 풀면서 복습까지 이어지도록 구성한 학습 통합 프로젝트입니다.  
 공부 흐름이 끊기지 않게 **정리 → 확인(퀴즈) → 복습**을 한 번에 처리하는 흐름을 목표로 했습니다.
 
 <br/>
